@@ -60,9 +60,6 @@ class _QuizScreenState extends State<QuizScreen> {
               _selectedOption = -1;
             });
           },
-          onExit: () {
-            Navigator.of(context).pop();
-          },
         );
       },
     );

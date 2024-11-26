@@ -3,13 +3,11 @@ import 'package:flutter/material.dart';
 class CustomDialog extends StatelessWidget {
   final int score;
   final VoidCallback onRestart;
-  final VoidCallback onExit;
 
   const CustomDialog({
     super.key,
     required this.score,
     required this.onRestart,
-    required this.onExit,
   });
 
   @override
