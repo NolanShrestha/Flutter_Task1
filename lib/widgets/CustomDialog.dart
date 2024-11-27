@@ -15,12 +15,13 @@ class CustomDialog extends StatelessWidget {
     return AlertDialog(
       title: const Row(
         children: [
-          const Icon(
+          Icon(
             Icons.quiz,
             color: Colors.teal,
             size: 30,
           ),
-          SizedBox(width: 8),
+          // SizedBox(width: 8),
+          Spacer(),
           Text(
             'Quiz Over!',
             style: TextStyle(
