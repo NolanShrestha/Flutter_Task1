@@ -48,6 +48,6 @@ To use this app all you need is flutter installed in your pc.
 
 - ![SS2.jpg](/ScreenShots/SS2.jpg)
     
-- ![SS3.jpg](/task1/ScreenShots/SS3.jpg)
+- ![SS3.jpg](/ScreenShots/SS3.jpg)
 
 - ![SS4.jpg](/ScreenShots/SS4.jpg)
