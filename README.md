@@ -44,12 +44,10 @@ To use this app all you need is flutter installed in your pc.
 
 ### Screenshots of the App
 
-- ![SS1.jpg](./task1/ScreenShots/SS1.jpg)
+- ![SS1.jpg](/task1/ScreenShots/SS1.jpg)
 
-- ![SS2.jpg](./task1/ScreenShots/SS2.jpg)
+- ![SS2.jpg](/task1/ScreenShots/SS2.jpg)
     
-- ![SS3.jpg](./task1/ScreenShots/SS3.jpg)
+- ![SS3.jpg](/task1/ScreenShots/SS3.jpg)
 
-- ![SS4.jpg](./task1/ScreenShots/SS4.jpg)
-
-
+- ![SS4.jpg](/task1/ScreenShots/SS4.jpg)
