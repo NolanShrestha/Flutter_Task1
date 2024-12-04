@@ -162,7 +162,7 @@ class _QuizScreenState extends State<QuizScreen> {
                           65, // Centered
                       child: const CircleAvatar(
                         radius: 50,
-                        backgroundImage: AssetImage('assets/logo.jpg.avif'),
+                        backgroundImage: AssetImage('assets/logo.jpg'),
                       ),
                     ),
                   ],
